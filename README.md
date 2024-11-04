@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Cao</h1>
-- 🌱 I’m currently learning **Django**
 
-- 📝 I regularly write articles on [https://medium.com/@yu.cao20041208](https://medium.com/@yu.cao20041208)
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Flutter & Dart & Python**
 
