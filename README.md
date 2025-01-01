@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Cao, first year BSCS @UVA</h1>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Vscode Extension Development**
 
 - 💬 Ask me about **Flutter & Dart & Python**
 
