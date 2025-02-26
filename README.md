@@ -10,4 +10,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yudavidcao&" alt="yudavidcao" /></p>
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,react,vue,flutter,dart,java,cpp,prisma,firebase,html,css,tensorflow,docker,js,ts,py,mongodb,django,figma,tailwind,git&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,react,swift,flutter,dart,java,cpp,prisma,firebase,html,css,tensorflow,docker,js,ts,py,mongodb,django,figma,tailwind,git&perline=11)](https://skillicons.dev)
