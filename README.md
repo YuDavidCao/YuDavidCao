@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Cao, @UVA</h1>
 
-- 🌱 I’m currently learning **Python & LangChain**
+- 🌱 I’m currently learning **Python & LangChain & LangGraph**
 
 - 💬 Ask me about **Flutter & Dart & Python**
 
