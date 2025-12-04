@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm David Cao, @UVA</h1>
 
-- 🌱 I’m currently learning **SlateJS & OCaml**
+- 🌱 I’m currently learning **SlateJS & Nextjs**
 
-- 💬 Ask me about **Flutter & Dart & Python**
+- 💬 Ask me about **Flutter & Dart & Python & React**
 
 - 📫 How to reach me **yu.cao20041208@gmail.com**
 
