@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Cao, @UVA</h1>
 
-- 🌱 I’m currently learning **Nextjs & NestJS**
+- 🌱 I’m currently learning **NestJS & Go**
 
 - 💬 Ask me about **Flutter & Dart & Python & React**
 
