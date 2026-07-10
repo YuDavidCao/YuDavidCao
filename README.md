@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **yu.cao20041208@gmail.com**
 
+- 📝 I regularly write articles on [medium](https://medium.com/@yu.cao20041208) and my [personal website](https://yudavidcao.github.io/blogs/)
+
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=YuDavidCao&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 <h3 align="left">Languages and Tools:</h3>
 
