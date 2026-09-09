@@ -9,6 +9,8 @@
 - 📝 I regularly write articles on [medium](https://medium.com/@yu.cao20041208) and my [personal website](https://yudavidcao.github.io/blogs/)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yudavidcao)](https://git.io/streak-stats)
+
+[![Contributions by repo](https://github-piechart.vercel.app/api/pie?username=YuDavidCao&by=all&range=1y&limit=6&theme=light)](https://github-piechart.vercel.app/?user=YuDavidCao&by=all&range=1y&limit=6&theme=light)
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,react,swift,flutter,dart,java,cpp,prisma,firebase,html,css,tensorflow,docker,js,ts,py,mongodb,django,figma,tailwind,git&perline=11)](https://skillicons.dev)
